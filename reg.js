@@ -49,7 +49,7 @@ user.innerHTML = `Welcome ${localStorage.getItem('Username')}`
         localStorage.removeItem('password')
 
         alert(`log out successfull`)
-        window.location ="/project.html";
+        window.location ="index.html";
     }
 
 
