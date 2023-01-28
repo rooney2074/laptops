@@ -1,0 +1,259 @@
+
+#logo{
+    font-family: 'Nabla', cursive;
+    font-size: 50px;
+    text-shadow: 3px 3px 0px rgba(63,107,169, 0.5);
+    text-align: center;
+}
+.inline{
+    display: inline;
+}
+.back{
+    background-color: black;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+}
+.smallbox{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    display: inline-block;
+    border: 1px solid grey;
+    margin-top: 50px;
+}
+.smallbox:hover{
+    background-color: black;
+}
+#img1{
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(194, 128, 178, 0.73)),
+    url('macbbok.jpg');
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    border: 1px none;
+}
+#img2{
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(194, 128, 178, 0.73)),
+    url('dellbook.jpg');
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    border: 1px none;
+}
+#img3{
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(194, 128, 178, 0.73)),
+    url('masibook.jpg');
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    border: 1px none;
+}
+#button3:hover{
+    background-color: violet;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+#button2:hover{
+    background-color: violet;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+#button1:hover{
+    background-color: violet;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+#img3:hover{
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(236, 221, 233, 0.73)),
+    url('msibook2.jpg');
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 5px #ec74ec;
+    transition: 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
+#img2:hover{
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(236, 221, 233, 0.73)),
+    url('dell2.jpg');
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 5px #ec74ec;
+    transition: 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
+#img1:hover{
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(236, 221, 233, 0.73)),
+    url('mac.jpg');
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 5px #ec74ec;
+    transition: 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
+.navbar-toggler{
+     background-color:violet;
+}
+html{
+    scroll-behavior: smooth;
+}
+#login{
+    width: 100%;
+    height:500px;
+    background-image: url('mac.jpg');
+    border-radius: 20px;
+    
+}
+#logo1{
+    font-family: 'Nabla', cursive;
+    font-size: 50px;
+    text-shadow: 3px 3px 0px rgba(63,107,169, 0.5);
+    text-align: center;
+    margin-top: 30px;
+}
+#button{
+    background-color: rgb(197, 4, 197);
+}
+#button:hover{
+    background-image: linear-gradient(rgb(209, 93, 209), rgb(131, 18, 112));
+    color: white;
+    transition: 0.3s ease-in;
+    box-shadow: 5px 5px 5px #ec74ec;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    border: none;
+}
+#footer{
+    background: rgb(63,0,255);
+background: linear-gradient(90deg, rgba(63,0,255,1) 0%, rgba(185,37,208,1) 100%);
+width: 100%;
+}
+.p{
+    color: white;
+    text-decoration: none;
+}
+.p:hover{
+    color: rgb(134, 23, 134);
+    fill: rgb(134, 23, 134);
+    transition: 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
+.btn{
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: violet;
+    transition: 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
+#login1{
+    background-color: white;
+    background: hsla(0, 0%, 100%, 0.55);
+    backdrop-filter: blur(30px);
+    border-radius: 20px;
+}
+#color{
+    background-color: orange;
+    border-radius: 20px;
+    height: 2px;
+}
+#color1{
+    background-color: rgb(225, 0, 255);
+    border-radius: 20px;
+    height: 2px;
+}#color3{
+    background-color: rgb(209, 0, 236);
+    border-radius: 20px;
+    height: 2px;
+}
+#color4{
+    background-color: rgb(184, 5, 207);
+    border-radius: 20px;
+    height: 2px;
+}
+#color6{
+    background-color: rgb(157, 4, 177);
+    border-radius: 20px;
+    height: 2px;
+}
+#footerbtn{
+    position: fixed;
+    margin-top: 800px;
+}
+h3,p{
+    color: white;
+}
+
+
+
+
+
+/* animation */
+.pulser {
+    width: 30px;
+    height: 30px;
+    background: rebeccapurple;
+    border-radius: 50%;
+    position: relative;
+  }
+  
+  .pulser::after {
+    animation: pulse 1000ms cubic-bezier(0.9, 0.7, 0.5, 0.9) infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      transform: scale(1.4);
+      opacity: 0.4;
+    }
+  }
+  
+  .pulser::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: blueviolet;
+    border-radius: 50%;
+    z-index: -1;
+  }
+  
+  /* Decorative styles */
+  body {
+    display: grid;
+    place-items: center;
+  }
+
+  .smallbox:hover{
+    border-radius: 50%;
+    justify-content: space-around;
+    transition: 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+  }
+ 
+
+  

@@ -1,0 +1,92 @@
+#logo{
+    font-family: 'Nabla', cursive;
+    font-size: 50px;
+    text-shadow: 3px 3px 0px rgba(63,107,169, 0.5);
+    text-align: center;
+}
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(226, 132, 250), rgb(177, 14, 155))
+    }
+    #hover:hover{
+        transition: 0.3s ease-in;
+        box-shadow: 6px 6px 6px #7a407a;
+        -webkit-transition: all 0.3s ease-in;
+        -moz-transition: all 0.3s ease-in;
+        border: violet;
+        border-radius: 25px;
+    }
+    #hover{
+        background: hsla(0, 0%, 100%, 0.55);
+        backdrop-filter: blur(50%);
+        border-radius: 20px;
+    }
+    .button{
+        border: none;
+    }
+    .button:hover{
+        transition: 0.3s ease-in;
+        box-shadow: 6px 6px 6px #7a407a;
+        -webkit-transition: all 0.3s ease-in;
+        -moz-transition: all 0.3s ease-in;
+        border: 1px violet;
+    }
+
+    /* animation */
+
+    div.at-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+    }
+    .at-item {
+        color: #a81c9d; font-weight:bold; font-size:3em;
+        
+        animation-name: focus-in-contract;
+        animation-duration: 3s;
+        animation-timing-function: ease;
+        animation-delay: 0s;
+        animation-iteration-count: 1;
+        animation-direction: normal;
+        animation-fill-mode: none;
+            
+        /* shorthand
+        animation: focus-in-contract 1s ease 0s 1 normal none;*/
+    }
+    @keyframes focus-in-contract {
+            
+        0% {
+            letter-spacing:1em;
+            filter:blur(12px);
+            opacity:0;
+        }
+        100% {
+            filter:blur(0);
+            opacity:1;
+        }
+    }
+
+    #head{
+        font-family: 'Nabla', cursive;
+        font-size: 50px;
+        text-shadow: 3px 3px 0px rgba(63,107,169, 0.5);
+        text-align: center;
+    }
+    

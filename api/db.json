@@ -1,0 +1,125 @@
+{
+  "laptops": [
+    {
+      "image": "https://m.media-amazon.com/images/I/71S+S-vt1MS._AC_UY218_.jpg",
+      "name": "HP 250 G8 Laptop",
+      "cost": "₹37,799",
+      "display": "15.6 inch UHD",
+      "processor": "Core i3-1115G4",
+      "memory": "DDR4 RAM",
+      "color": "Dark Ash Silver, 1.74 kg",
+      "storage": "512GB SSD"
+
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81b-Iy+NZ1L._AC_UY218_.jpg",
+      "name": "HP 15s",
+      "cost": " ₹48,990",
+      "display": "15.6 inch(39cm) Micro-Edge Anti-Glare FHD Laptop",
+      "processor": "Ryzen 5-5500U",
+      "memory": "8GB RAM",
+      "color": "Dark Ash Silver, 1.74 kg",
+      "storage": "512GB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71GOHbZLUuL._AC_UY218_.jpg",
+      "name": "HP Pavilion",
+      "cost": " ₹60,500",
+      "display": "15.6 (39.6cm) FHD",
+      "processor": "AMD Ryzen 5 5600H Processor",
+      "memory": "8GB RAM",
+      "color": "Backlit KB/1.98 Kg",
+      "storage": "512GB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71j5POSoRDL._AC_UY218_.jpg",
+      "name": "OMEN",
+      "cost": " ₹1,02,592",
+      "display": "16.1-inch(40.9 cm) FHD",
+      "processor": "12th Gen Intel Core i7",
+      "memory": "16GB RAM",
+      "color": "Backlit KB/1.98 Kg",
+      "storage": "1TB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._AC_UY218_.jpg",
+      "name": "2020 Apple MacBook Air",
+      "cost": " ₹87,990",
+      "display": "13.3-inch/33.74 cm Retina Display",
+      "processor": "Apple M1 chip",
+      "memory": "8GB RAM",
+      "color": "Silver",
+      "storage": "256GB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71an9eiBxpL._AC_UY218_.jpg",
+      "name": "2020 Apple MacBook Pro",
+      "cost": " ₹1,22,900",
+      "display": "13.3-inch/33.78 cm Retina Display",
+      "processor": " Apple M1 chip with 8‑core CPU and 8‑core GPU",
+      "memory": "8GB RAM",
+      "color": "Space Grey",
+      "storage": "256GB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_UY218_.jpg",
+      "name": "2021 Apple MacBook Pro",
+      "cost": " ₹3,06,990",
+      "display": "16-inch//41.05 cm",
+      "processor": "Apple M1 Max chip with 10‑core CPU and 32‑core GPU",
+      "memory": "32GB RAM",
+      "color": "Space Grey",
+      "storage": "1TB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UY218_.jpg",
+      "name": "2022 Apple MacBook Pro",
+      "cost": " ₹1,39,390",
+      "display": "34.46 cm (13.6-inch) Liquid Retina Display",
+      "processor": "M2 chip",
+      "memory": "8GB RAM",
+      "color": "Midnight",
+      "storage": "512GB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UY218_.jpg",
+      "name": "ASUS TUF AMD",
+      "cost": " ₹61,990",
+      "display": "15.6-inch (39.62 cms) FHD 144Hz",
+      "processor": " AMD Ryzen 5 4600H, 4GB NVIDIA GeForce GTX 1650",
+      "memory": "8GB RAM",
+      "color": "Black",
+      "storage": "512GB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/710NRdecQtL._AC_UY218_.jpg",
+      "name": "ASUS TUF INTEL",
+      "cost": " ₹58,499",
+      "display": "15.6-inch (39.62 cms) FHD 144Hz",
+      "processor": " Intel Core i5-10300H 10th Gen, 4GB NVIDIA GeForce GTX 1650",
+      "memory": "8GB RAM",
+      "color": "Black",
+      "storage": "512GB SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71zj-tRx4mL._AC_UY218_.jpg",
+      "name": "MSI",
+      "cost": " ₹4,08,890",
+      "display": "17.3 UHD 120Hz",
+      "processor": " Intel 12th Gen. i7-12700H, Nvidia RTX 3080Ti 16GB GDDR 6",
+      "memory": "16GBx2",
+      "color": "Titanium Blue",
+      "storage": "2TB NVMe SSD"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61ZbmBmQbqL._AC_UY218_.jpg",
+      "name": "Dell",
+      "cost": " ₹2,91,175",
+      "display": "17.3 Inches (43.94 Cms) Fhd 360Hz",
+      "processor": " Intel I7-11800H, Nvidia RTX 3070 8Gb",
+      "memory": "32GB",
+      "color": " Backlit Kb + Alien Fx, Lunar Light",
+      "storage": "1TB SSD"
+    }
+  ]
+}

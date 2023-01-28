@@ -1,0 +1,37 @@
+#back{
+    opacity: 30%;
+}
+.header{
+    font-size: 100px;
+}
+#logo{
+    font-family: 'Nabla', cursive;
+    font-size: 50px;
+    text-shadow: 3px 3px 0px rgba(63,107,169, 0.5);
+    text-align: center;
+}
+#hover:hover{
+    transition: 0.3s ease-in;
+    box-shadow: 5px 5px 5px #7a407a;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    border: none;
+    width: 50%;
+    background-color: violet;
+}
+.btn{
+    margin-left: 15px;
+    box-shadow: 2px 2px 2px #7a407a;
+}
+.none{
+    text-decoration: none;
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    color: violet;
+    transition: 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
